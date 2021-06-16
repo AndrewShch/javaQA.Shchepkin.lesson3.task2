@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //численные значения считаются в копейках
+        //численные значения в копейках
         int amount = 1000_00;
         int account = 50_00;
         int bonus = 1_00;
